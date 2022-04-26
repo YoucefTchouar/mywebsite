@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//youceftchouar.github.io/static/css/main.f446f748.css",
+    "main.js": "//youceftchouar.github.io/static/js/main.58376da8.js",
+    "static/js/787.21d17fcb.chunk.js": "//youceftchouar.github.io/static/js/787.21d17fcb.chunk.js",
+    "index.html": "//youceftchouar.github.io/index.html",
+    "main.f446f748.css.map": "//youceftchouar.github.io/static/css/main.f446f748.css.map",
+    "main.58376da8.js.map": "//youceftchouar.github.io/static/js/main.58376da8.js.map",
+    "787.21d17fcb.chunk.js.map": "//youceftchouar.github.io/static/js/787.21d17fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f446f748.css",
+    "static/js/main.58376da8.js"
+  ]
+}
